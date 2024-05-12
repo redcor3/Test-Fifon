@@ -1,0 +1,30 @@
+{
+	"name": "jebanie",
+	"calls": [
+		[
+			[
+				"dupa",
+				{}
+			]
+		],
+		[
+			[
+				"dupa",
+				{}
+			]
+		],
+		[
+			[
+				"dipeczka",
+				{},
+				{},
+				{}
+			]
+		]
+	],
+	"responses": [
+		"dupa",
+		"dupa",
+		"dupa"
+	]
+}
